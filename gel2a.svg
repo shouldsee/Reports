@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="168.40495mm"
+   height="43.645611mm"
+   viewBox="0 0 596.71046 154.6498"
+   id="svg4288"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gel2a.svg">
+  <defs
+     id="defs4290">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4273">
+      <rect
+         style="opacity:0.61000001;fill:#000000;fill-opacity:1"
+         id="rect4275"
+         width="599.90027"
+         height="154.6498"
+         x="36.365494"
+         y="165.44826"
+         ry="4.2494879" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4903">
+      <rect
+         ry="4.2494879"
+         y="668.06012"
+         x="36.365494"
+         height="154.6498"
+         width="599.90027"
+         id="rect4905"
+         style="opacity:0.61000001;fill:#000000;fill-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4947">
+      <rect
+         style="opacity:0.61000001;fill:#000000;fill-opacity:1"
+         id="rect4949"
+         width="599.90027"
+         height="154.6498"
+         x="36.365494"
+         y="1146.2098"
+         ry="4.2494879" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="183.50621"
+     inkscape:cy="-46.388477"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="681"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata4293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.0733556,-0.75158745)">
+    <image
+       sodipodi:absref="/home/shouldsee/Documents/Reports/gel2a.tif"
+       xlink:href="gel2a.tif"
+       transform="translate(-36.481969,-1145.4582)"
+       y="1043.0135"
+       x="39.555325"
+       id="image4240"
+       preserveAspectRatio="none"
+       height="487.5"
+       width="652.5"
+       clip-path="url(#clipPath4947)" />
+  </g>
+</svg>
