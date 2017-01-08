@@ -1,3 +1,6 @@
+
+<snippet>
+  <content><![CDATA[
 # Molecular Biology Courseworks
 
 Naming Example:BIOC3014_PaperAnalysis_CW.pdf is a coursework for third year.
@@ -16,3 +19,7 @@ BIOC3301		Advanced Practical in Molecular Biology	Protocol,Wet Lab Report
 
 Online Works:
 CELL2007: A summary of apoptosis-signalling kinase 1 (ASK1): http://katiepreston14.wixsite.com/cell2008group5ask1/blank
+
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
