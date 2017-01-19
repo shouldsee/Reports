@@ -1,0 +1,52 @@
+>>Prologue
+It seems that life is a one way process from birth to death. But there is an exception, stem cells. Strangely enough, stem cells don't die. Instead, they renew themselves indefinitely unless instructed to differentiate. Scientist has been aware of this phenomena for over half a century, but it's not until ten years ago that we finally master the magic of epigenetic reprogramming, which allows scientist to transform mature cells into stem cells. In this volume of prime view, we will briefly comment on the history of stem cells, the application of stem cell technology to biology and medicine, and the struggles in front of the field. 
+
+>>Introduction:
+Stem cells are different from somatic cells in that there is no limit to number of divisions it can undergo. They are further classified according their potential to differentiate. Pluripotent stem cell (PSC) represents the most useful class, with The word "pluripotent" meaning capable of differentiating into all kinds of functional cells. 
+
+Depending how PSC is obtained, it can be classified into induced pluripotent stem cell (iPSC) and embryonic stem cells (ESC). While people has been obtaining ESC from developing embryo for long, making iPSC from mature somatic cells is only becoming available in 2006. This easy-to-use technology has since attracted great attention and unravelled vastly many opportunities in the field of biology and medicine. 
+
+While a complete understanding of the underlying mechanism is not yet achieved, the technology has been applied to aid biological research and to develop novel therapies. The attempts to understand it have nevertheless shifted the paradigm of molecular biology to the epigenetic era. Though many issues persist, stem cells will remain one of the most popular topics for the forseeable future.
+
+
+>> Technology
+Human PSC's are obtained mainly through embryos discarded in pre-implantation diagnose (PGD) and through ectopic expression of transcription factors, known as iPSC. iPSC's have been induced from human fibroblasts, keratinocytes, peripheral blood cells. Such somatic cells are first collected from the host and then induced to express a cocktail of transcription factors, delivered with retroviral/lentiviral transfection. These transcription factors then effect to alter the cellular identity to re-establish pluripotency. Once stable pluripotency is established, the ectopic expression then becomes dispensable and the cell persist in this state indefinitely if cultured with suitable supplements, becoming stable cell lines for further uses.
+
+Mechanistically, the induction process epigenetically reprograms the somatic cell to a pluripotent state, by removing transcription patterns typical of differentiated cells and replace with that of pluripotent cells. The exact process is slowly unravelled into 2 major stages. The original OSKM cocktail includes Oct4, Sox2, Klf4 and Myc. Upon expression, Oct4, Sox2 and Nanog bind to inactive chromosomal region to remove the epigenetic repressors on PSC-specific genes and promote their expression. Thereafter, a cascade of events take place to form a marginally stable feedfoward, auto-regulatory transcription network, which is capable to stay as it is as well as to integrate opposing differentiation cues.
+
+Nowadays, as problems come up in real application, new processes are devised to obtain PSC. For example, to overcome the instability introduced by retroviral integration, other "integration-free" vectors like Sendai viruses and episomes are introduced. People even managed to obtain iPSC with just cocktail of small molecules instead of proteins, albeit with low efficiency. The recipe of the cocktail is also constantly updating, including factors like histone deacetylase to improve chromosomal accessibility, and PSC-state-specific non-coding RNA's in order to optimise the induction efficiency. 
+
+
+>> The Hurdles
+Although the technology is robust and relatively easy to use, there are many unknowns and hurdles it must tackle to reach industrial applicability, coming from technical difficulties, scientific validity, safety and economic viability: A induction efficiency of 5% might be satisfactory for lab usage, but would be feasible when 10 billion cells are required to implenment a treatment or to carry out High-throughput screening. For theraputic PSC, one need to assess its mutation profile and ensure the integrity and stability of PSC's genome, thus ruling out traditional retroviral delivery. Human iPSC also differs from native ESC in its genetic profile and raise question on their biological equivalence. Moreover, iPSC inherits some epigenetic memory from its somatic origin, which could interfere with the re-differentiaion process. Even a treatment has been shown to work in animal models, it might not translate to successful clinic trials for some subtle differences in underlying biology. For the lucky ones with proved theraputic value and license issued, they might still suffer from expensiveness. Take AMD treatment as example, while the conventional strategy costs $5,000 per patient per year, the PSC-based strategy costs $20,000. Such hurdles, though slowing down the progress, stimulate the research on PSC to produce even better solutions.
+
+>>Legals
+On one hand, the translation of bench-top PSC biology to a novel PSC treatment is stringently regulated by FDA  which requires a complete process from pre-clinical investigation to Phase III clinical trial for any novel PSC therapy, which usually takes 6-10yrs, with fast-review and compensatory administration for exceptional conditions. On the other hand, unregulated PSC therapy services are growing larger than ever. Although such services are lacking credibility and safety assessment, they highlight the huge unmet demand in the market, indicating that FDA might better take a more innovative approach to improve the situation.
+
+Is it effective?
+1. Nowadays with the improved cocktail, iPSC can even produce chimeric mice if grafted onto a mouse embryo -- achieving the "gold standard" for pluripotency. However, the human iPSC is still shown to differ from the ESC in gene expression and epigenetic markers.
+
+clinical trials
+2. Does the implanted PSC really integrate into the tissue? Some study reports post-implant degeneration of ESC's, rendering the treatment meaningless. However, cellular tracking shows iPSC's fully integrated if implanted into mice. Sometimes even animal models can be misleading if the readout phenomenon is species specific.
+
+Thus, to show the treatment has theraputic relevance, one needs to carefully design and analyse animal models, with some good luck.
+
+Is it safe to use?
+1.
+
+>> History
+Life was once thought to be a one-way phenomena from birth to death. The success of somatic cell nuclear transfer (known as cloning) opens up the field of rejuvenation. In other words, a single mature cell possess the potential to give birth to a new individual, what is now known as pluripotency. Not only we can go back on the road of life, we can also stop at its early stage and choose the path to follow. Thanks to the stem cell technology, we can keep Pluripotent stem cells (PSC's) undifferentiated indefinitely due to its intrinsic immortality, as well as to instruct it to differentiate at our will. 
+
+Moreover, the methods to obtain PSC's have expanded to be non-invasive. In the 1970s PSC was taken from early embryos, which inevitably impose an adverse effect or even complete abolishment of the embryo, causing ethnic concerns and technical difficulties. With the advancement in molecular biology , scientists are now able to induce any mature cell to become PSC that resembles every aspect of embryo-derived PSC, opening up unprecedented possibilities for PSC-based therapy and research.
+
+Although promising, the safety and efficacy of PSC-based therapy is still being evaluated during clinical trials, whereas the PSC technology itself is constantly being improved to achieve better efficiency for industrial applicability. The era of PSC is only at its dawning.
+
+>> Application
+PSC has been extensively exploited since its discovery. Pathology study in human was limited by ethnics before the availability of PSC. With PSC, scientist can introduce genetic defect into iPSC or obtain defected PSC directly from affected embryo, thus establishing PSC cell line specific to the disease of interest. These cell lines give detailed information on the disease phenotypes. Using PSC phenotype as output, one can also screen for novel drugs to treat the underlying disease. 
+
+However, there are certain diseases cannot be tackled. For diseases with complex genetic cause or low penetrance, it's challenging to introduce the right combination of genetic defects. For diseases with a late onset or tissue/physiological-level phenotype, PSC model cannot produce useful information since it is essentially at early embryonic stage and cellular level. Moreover, if the disease phenotype interferes with the cellular reprogramming, generating iPSC will become incredibly difficult. There are certain workarounds such as artificial ageing or creative culturing, but these interventions introduce large uncertainty to the results.
+
+Apart from aiding biological research, patient-specific iPSC also represents the biology of the patient himself. Instead of selecting treatments based on doctor's empirical decision, one can try out candidate treatments on iPSC and see which one works the best to instruct the actual practice. Such  precision medicine will revolutionise the way we cure diseases.
+
+The other big application of PSC is to grow replacement tissues. Many major diseases associate with degeneration of certain tissues that can not be cured by drugs alone, such as ageing-related macular degeneration (AMD), spinal cord injury and Parkinson's disease. Treatment to these often involves replacing the diseased tissue with artificial or biological substitutes. Since PSC is pluripotent, in principle we can generate any tissue of interest with suitable instructions, which will be less immunogenic than artificial ones, whereas the use of patient-specific iPSC should eliminate the immunogenicity completely. Indeed, PSC-derived retinal pigmented epithelial cells are transplanted to patient in clinical trials (Phase I-II). 
+
