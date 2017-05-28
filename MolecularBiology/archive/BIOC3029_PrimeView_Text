@@ -1,0 +1,32 @@
+>>Introduction:
+Among the family of stem cells, pluripotent stem cell (PSC) represents the most useful class. The word "pluripotent" means being capable of differentiating into all kinds of functional cells, rendering it promising for modelling disase, testing drugs and regenerative medicine. 
+
+Induced pluripotent stem cell (iPSC) and Embryonic Stem cells (ESC) are two major classes of PSC's. iPSC is induced from mature somatic cells while ESC is taken from early developing embryo. Such difference leads to controversies on ethnics and on technicalities.
+
+>> Mechanism
+iPSC's have been obtained from human fibroblasts, keratinocytes, peripheral blood cells. Such somatic cells are first collected from the host and then induced to express a cocktail of transcription factors, delivered with retroviral/lentiviral transfection. These transcription factors then effect to alter the cellular identity to re-establish pluripotency. The cell culture is then screened for the pluripotency marker, to identify the resultant iPSC's. 
+
+The mechanism of transcription factors is not fully understood but is slowly unravelled. The process can be viewed in 2 major stages. Firstly, factors bind to chromosomal region inaccessible to other factors and alter its morphology. Secondly, a cascade of events take place, shifting the transcription profile towards to a PSC style. 
+
+The receipe of the cocktail is constantly updating. Whereas the original OSKM includes Oct4, Sox2, Klf4 and Myc, the new recipe includes histone deacetylase to improve chromosomal accessibility.
+
+Like everything, there is a tradeoff. On one hand, one wants to increase the induction efficiency. On the other hand, one wants as little mutation as possible to ensure the iPSC is safe for clinical purpose. For example, shutting down p53 apppear to increase the  efficiency, but at the same increase the mutational rate. ;
+
+>> The Unknowns
+
+Is it effective?
+1. The iPSC has been shown to differ from ESC's in their genetic profile and is incomplete in its pluripotency. Nowadays with the improved cocktail, iPSC can even produce chimeric mice if grafted onto a mouse embryo -- acheving the "gold standard" for pluripotency. 
+2. Does the implanted PSC really integrate into the tissue? Some study reports post-implant degeneration of ESC's, rendering the treatment meaningless. However, cellular tracking shows iPSC's fully integrated if implanted into mice. Sometimes even animal models can be misleading if the readout phemonmean is species specific.
+
+Thus, to show the treatment has theraputic relevance, one needs to carefully design and analyse animal models, with some good luck.
+
+Is it safe to use?
+1.
+
+
+>> Application
+Regenerative medicine.
+
+>> Legals
+Stem cell therapy is subject to stringent regulation by FDA. 
+
